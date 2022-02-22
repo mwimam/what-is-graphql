@@ -1,0 +1,8 @@
+{
+    "name": "graphql-project",
+    "dependencies": {
+        "apollo-server": "^2.25.3",
+        "apollo-server-express": "^2.25.3",
+        "graphql": "^15.8.0"
+    }
+}
